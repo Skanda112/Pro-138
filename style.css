@@ -1,0 +1,15 @@
+body
+{
+background-size: cover;
+}
+
+div
+{
+    width: 100%;
+    text-align: left;
+}
+
+.heading
+{
+    float: right;
+}

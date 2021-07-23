@@ -13,3 +13,15 @@ div
 {
     float: right;
 }
+
+.footer
+{ 
+        position: fixed;
+        color: rgb(255, 255, 255);
+        bottom: 0;
+        width: 100%;
+        background-color:rgb(128, 128, 128);
+        line-height: 3;
+        height: 30px;
+        text-align: center;
+}
